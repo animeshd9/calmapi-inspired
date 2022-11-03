@@ -1,5 +1,5 @@
 {
-  "name": "calmapi",
+  "name": "moonlight",
   "version": "1.0.0",
   "description": "Production ready REST API framework using NodeJS & Mysql",
   "main": "index.js",
@@ -27,6 +27,7 @@
     "mongoose": "^5.13.8",
     "mongoose-unique-validator": "^2.0.3",
     "multer": "^1.4.3",
+    "mysql2": "^2.3.3",
     "pluralize": "^8.0.0",
     "sequelize": "^6.25.3",
     "uuid": "^8.3.2"
